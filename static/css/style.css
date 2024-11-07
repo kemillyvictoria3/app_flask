@@ -1,0 +1,21 @@
+:root{
+    --bgnd-dark: #ba64ec;
+    --text-light: rgb(61, 0, 77);
+    --title-light: rgb(103, 0, 134);}
+
+h1 {
+    color: #000000;
+}
+
+body{
+    background-color: var(--bgnd-dark);
+    font-family: " Emilys Candy ";
+    font-size: 1.5rem;
+    color: var(--text-light)
+}
+
+h1{
+    font-family: " Sour Gummy ";
+    font-size: 5rem;
+    color: var(--text-light);}
+
